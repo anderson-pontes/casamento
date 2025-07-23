@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // A 'chave' (ex: 'ano1') tem de ser a mesma do 'data-gallery-id' no HTML.
     // Coloca aqui os caminhos para as tuas imagens.
     const galleries = {
-        'ano1': ['imagens/ano1_ft01.jpg', 'imagens/ano1_ft02.JPG', 'imagens/ano1_ft03.JPG', 'imagens/ano1_ft04.JPG', 'imagens/ano1_ft05.JPG', 'imagens/ano1_ft06.JPG', 'imagens/ano1_ft07.JPG', 'imagens/ano1_ft08.JPG', 'imagens/ano1_ft09.JPG'],
+        'ano1': ['imagens/ano1_ft01.jpg', 'imagens/ano1_ft02.jpg', 'imagens/ano1_ft03.jpg', 'imagens/ano1_ft04.jpg', 'imagens/ano1_ft05.jpg', 'imagens/ano1_ft06.jpg', 'imagens/ano1_ft07.jpg', 'imagens/ano1_ft08.jpg', 'imagens/ano1_ft09.jpg'],
         'ano3': ['imagens/ano3-casa.jpg'],
         'ano5': ['imagens/oliver2.jpg', 'imagens/oliver3.jpg', 'imagens/oliver4.jpg', 'imagens/oliver5.jpg', 'imagens/oliver6.jpg', 'imagens/oliver7.jpg', 'imagens/oliver8.jpg', 'imagens/oliver9.jpg', 'imagens/oliver10.jpg', 'imagens/oliver11.jpg', 'imagens/oliver12.jpg'],
         'ano8': ['imagens/belem.jpg'],
